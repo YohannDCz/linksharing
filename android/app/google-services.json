@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404191919210",
+    "project_id": "linksharing-8fee7",
+    "storage_bucket": "linksharing-8fee7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404191919210:android:b0f0bce9fd11c970f7de13",
+        "android_client_info": {
+          "package_name": "io.yohanndcz.linksharing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404191919210-v4manv3dsk0fvql3sngii1d5l4q2o6si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtn1GFThmMafP67SsA4Lx-4bmr6HZDSNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404191919210-v4manv3dsk0fvql3sngii1d5l4q2o6si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
